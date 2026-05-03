@@ -1,9 +1,9 @@
 id,egresso_id,cargo,empresa,data_inicio,data_fim
-emp1_1,egresso1,Desenvolvedora Júnior,Tech Solutions Ltda,01-02-2019,30-01-2021
-emp1_2,egresso1,Engenheira de Software,Inova Sistemas,01-02-2021,
-emp2_1,egresso2,Analista de Sistemas,DataCorp,01-09-2019,
-emp3_1,egresso3,Desenvolvedora Full Stack,WebTech,15-01-2021,01-06-2023
-emp3_2,egresso3,Pesquisadora em IA,AI Research Lab,01-07-2023,
-emp4_1,egresso4,Administrador de Redes,NetServices,01-02-2018,01-05-2020
-emp4_2,egresso4,Especialista em Cloud,CloudTech,01-06-2020,
-emp5_1,egresso5,Cientista de Dados,DataLab,01-09-2021,
+emp1_1,egresso1,Desenvolvedora Júnior,Tech Solutions Ltda,2019-01-02,2021-02-24
+emp1_2,egresso1,Engenheira de Software,Inova Sistemas,2021-01-02,
+emp2_1,egresso2,Analista de Sistemas,DataCorp,2019-01-09,
+emp3_1,egresso3,Desenvolvedora Full Stack,WebTech,2021-01-15,2023-01-06
+emp3_2,egresso3,Pesquisadora em IA,AI Research Lab,2023-07-01,
+emp4_1,egresso4,Administrador de Redes,NetServices,2018-08-18,2020-05-14
+emp4_2,egresso4,Especialista em Cloud,CloudTech,2020-06-11,
+emp5_1,egresso5,Cientista de Dados,DataLab,2021-09-30,
