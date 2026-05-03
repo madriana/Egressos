@@ -1,6 +1,6 @@
 id,egresso_id,tipo,curso,instituicao,data_inicio,data_conclusao
-mestrado1,egresso1,Mestrado,Ciência da Computação,Universidade Federal de Minas Gerais,01-03-2020,01-12-2022
-pos2,egresso2,Especializacao,Data Science,Instituto Nacional de Tecnologia,01-03-2020,01-12-2021
-mestrado3,egresso3,Mestrado,Inteligência Artificial,Universidade de São Paulo,01-03-2021,01-02-2023
-doutorado3,egresso3,Doutorado,Ciência da Computação,Universidade de São Paulo,01-03-2023,
-pos5,egresso5,Especializacao,Big Data Analytics,Universidade Tecnológica do Cerrado,01-03-2022,
+mestrado1,egresso1,Mestrado,Ciência da Computação,Universidade Federal de Minas Gerais,2020-01-03,2022-01-12
+pos2,egresso2,Especializacao,Data Science,Instituto Nacional de Tecnologia,2020-01-03,2021-01-12
+mestrado3,egresso3,Mestrado,Inteligência Artificial,Universidade de São Paulo,2021-01-03,2023-01-02
+doutorado3,egresso3,Doutorado,Ciência da Computação,Universidade de São Paulo,2023-01-03,
+pos5,egresso5,Especializacao,Big Data Analytics,Universidade Tecnológica do Cerrado,2022-01-03,
