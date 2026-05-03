@@ -1,0 +1,6 @@
+id;egresso_id;curso;campus;universidade;data_formatura;ano_ingresso;semestre_ingresso
+grad1;egresso1;Ciência da Computação;Campus Central;Universidade Tecnológica do Cerrado;10/12/2018;2014;1
+grad2;egresso2;Sistemas de Informação;Campus Norte;Universidade Tecnológica do Cerrado;20/07/2019;2015;2
+grad3;egresso3;Engenharia de Software;Campus Central;Universidade Tecnológica do Cerrado;15/12/2020;2016;1
+grad4;egresso4;Ciência da Computação;Campus Oeste;Universidade Tecnológica do Cerrado;01/12/2017;2013;1
+grad5;egresso5;Sistemas de Informação;Campus Norte;Universidade Tecnológica do Cerrado;15/07/2021;2017;2
